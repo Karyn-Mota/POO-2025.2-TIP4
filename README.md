@@ -7,7 +7,7 @@ Este repositório contém as **três listas de exercícios** em dupla da discipl
 **Curso:** Técnico Integrado em Informática  
 **Instituição:** Instituto Federal do Ceará – Campus Maranguape  
 **Dupla:** [Karynne Mota de Abreu](https://github.com/Karyn-Mota)  
-[Maria Alice Cavalcante de Brito](https://github.com/alicecavalcante)  
+      [Maria Alice Cavalcante de Brito](https://github.com/alicecavalcante)  
 **Período:** 4º semestre
 
 ---
