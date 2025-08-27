@@ -7,7 +7,7 @@ Esta pasta contém os **exercícios resolvidos e propostos** referentes ao **Cap
 - **Exercícios Resolvidos:** 1º ao 10º  
 - **Exercícios Propostos:** 1º ao 5º
 
-## Exercícios Resolvidos - Questões
+## Exercícios Resolvidos - Questões - Estrutua Condicional
 
 1. A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir:
 
@@ -90,7 +90,7 @@ segundo, o mês e o terceiro, o ano.
 
 ---
 
-## Exercícios Propostos - Questões
+## Exercícios Propostos - Questões - Estrutura Condicional
 
 1. Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
 ---
@@ -117,6 +117,42 @@ do usuário.
 | 3                  | Produto entre os números digitados     |
 | 4                  | Divisão do primeiro pelo segundo       |
 
+---
+
+##  Exercícios Resolvidos - Questões - Estrutura de Repetição
+
+1. 
+---
+2. 
+---
+3. 
+---
+4. 
+---
+5. 
+---
+6.
+---
+7.
+---
+8.
+---
+9.
+---
+10. 
+---
+
+##  Exercícios Propostos - Questões - Estrutura de Repetição
+
+1. 
+---
+2. 
+---
+3. 
+---
+4. 
+---
+5. 
 ---
 
 ## Objetivo
