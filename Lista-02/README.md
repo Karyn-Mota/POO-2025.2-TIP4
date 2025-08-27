@@ -88,7 +88,7 @@ mês por extenso e hora:minuto.
 usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o
 segundo, o mês e o terceiro, o ano.
 
---
+---
 
 ## Exercícios Propostos - Questões
 
