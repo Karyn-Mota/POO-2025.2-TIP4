@@ -12,7 +12,7 @@ Esta pasta contém os **exercícios resolvidos e propostos** referentes ao **Cap
 1. Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 -----------------------------------------------------------------------------
 3. Faça um programa que receba três notas, calcule e mostre a média aritmética.
-   -----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 5. Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 6. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
 7. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
