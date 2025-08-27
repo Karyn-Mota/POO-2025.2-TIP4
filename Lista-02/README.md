@@ -9,7 +9,7 @@ Esta pasta contém os **exercícios resolvidos e propostos** referentes ao **Cap
 
 ## Exercícios Resolvidos - Questões
 
-| 1. A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir:
+| 1. A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir: |
 
 | Nota                   | Peso |
 |------------------------|------|
