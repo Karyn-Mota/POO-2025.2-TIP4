@@ -39,9 +39,9 @@ Depois, determine e mostre:
 |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 
 ---
-4.
+4. Faça um programa que preencha um vetor com oito números inteiros, calcule e mostre dois vetores resultantes. O primeiro vetor resultante deve conter os números positivos e o segundo, os números negativos. Cada vetor resultante vai ter, no máximo, oito posições, que não poderão ser completamente utilizadas.
 ---
-5.
+5. 
 ---
 6.
 ---
@@ -53,6 +53,30 @@ Depois, determine e mostre:
 ---
 10. 
 ---
+
+## Execícios Resolvidos - Questões - Sub-rotinas
+
+1. 
+---
+2. 
+---
+3. 
+---
+4. 
+---
+5. 
+---
+6.
+---
+7.
+---
+8.
+---
+9.
+---
+10. 
+---
+
 
 ## Objetivo
 
