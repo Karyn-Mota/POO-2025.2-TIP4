@@ -1,4 +1,4 @@
-## Exercícios Resolvidos - Questões - Estrutua Condicional
+## Exercícios Resolvidos - Questões - Estrutura Condicional
 
 1. A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir:
 
@@ -78,5 +78,34 @@ mês por extenso e hora:minuto.
 10. Faça um programa que determine a data cronologicamente maior entre duas datas fornecidas pelo
 usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o
 segundo, o mês e o terceiro, o ano.
+
+---
+
+## Exercícios Propostos - Questões - Estrutura Condicional
+
+1. Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
+---
+2. Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir:
+
+| Média Aritmética | Mensagem   |
+|------------------|------------|
+| 0,0 – 3,0        | Reprovado  |
+| 3,0 – 7,0        | Exame      |
+| 7,0 – 10,0       | Aprovado   |
+
+---
+3. Faça um programa que receba dois números e mostre o menor.
+---
+4. Faça um programa que receba três números e mostre o maior.
+---
+5. Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha
+do usuário.
+
+| Escolha do usuário | Operação                              |
+|--------------------|----------------------------------------|
+| 1                  | Média entre os números digitados       |
+| 2                  | Diferença do maior pelo menor          |
+| 3                  | Produto entre os números digitados     |
+| 4                  | Divisão do primeiro pelo segundo       |
 
 ---
