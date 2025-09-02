@@ -9,7 +9,7 @@ Faça um programa que determine o salário atual desse funcionário.
 ---
 2. Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a
 fórmula a seguir:
-  E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!
+E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!
 ---
 3. Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser
 lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor.
@@ -26,9 +26,6 @@ c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 ve�
 ---
 5. Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
 da série a seguir:
-$$
-S = -\frac{X_2}{1!} + \frac{X_3}{2!} - \frac{X_4}{3!} + \frac{X_5}{4!} - \frac{X_6}{3!} + \frac{X_7}{2!} - \frac{X_8}{1!} + \frac{X_9}{2!} - \frac{X_{10}}{3!} + \frac{X_{11}}{4!} - \dots
-$$
 
 ---
 6.
