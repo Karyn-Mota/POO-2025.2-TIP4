@@ -9,6 +9,7 @@ Faça um programa que determine o salário atual desse funcionário.
 ---
 2. Faça um programa que leia um valor N inteiro e positivo. Calcule e mostre o valor de E, conforme a
 fórmula a seguir:
+
 E = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N!
 ---
 3. Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser
