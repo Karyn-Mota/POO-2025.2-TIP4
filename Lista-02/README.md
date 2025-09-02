@@ -7,45 +7,6 @@ Esta pasta contém os **exercícios resolvidos e propostos** referentes ao **Cap
 - **Exercícios Resolvidos:** 1º ao 10º  
 - **Exercícios Propostos:** 1º ao 5º
 
-
-
-
-##  Exercícios Resolvidos - Questões - Estrutura de Repetição
-
-1. 
----
-2. 
----
-3. 
----
-4. 
----
-5. 
----
-6.
----
-7.
----
-8.
----
-9.
----
-10. 
----
-
-##  Exercícios Propostos - Questões - Estrutura de Repetição
-
-1. 
----
-2. 
----
-3. 
----
-4. 
----
-5. 
----
-
 ## Objetivo
 
 O objetivo desta lista é fixar os conhecimentos iniciais sobre **Estrutura Condicional** e **Estrutura de Repetição**, por meio da resolução de problemas simples utilizando entrada, processamento e saída de dados em linguagem Java.
