@@ -26,7 +26,10 @@ c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 ve�
 ---
 5. Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
 da série a seguir:
+$$
 S = -\frac{X_2}{1!} + \frac{X_3}{2!} - \frac{X_4}{3!} + \frac{X_5}{4!} - \frac{X_6}{3!} + \frac{X_7}{2!} - \frac{X_8}{1!} + \frac{X_9}{2!} - \frac{X_{10}}{3!} + \frac{X_{11}}{4!} - \dots
+$$
+
 ---
 6.
 ---
