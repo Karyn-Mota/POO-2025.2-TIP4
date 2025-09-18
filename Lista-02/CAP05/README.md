@@ -27,6 +27,16 @@ S = -X^2/1!, X^3/2!, -X^4/3!, X^5/4!, -X^6/3!, X^7/2!, -X^8/1!, X^9/2!, -X^{10}/
 6. Uma empresa possui dez funcionários com as seguintes características: código, número de horas trabalhadas no mês, turno de trabalho (M — matutino; V — vespertino; ou N — noturno), categoria (O — operário; ou G — gerente), valor da hora trabalhada. Sabendo-se que essa empresa deseja informatizar sua folha de pagamento, faça um programa que:
 a) Leia as informações dos funcionários, exceto o valor da hora trabalhada, não permitindo que sejam informados turnos e nem categorias inexistentes. Trabalhe sempre com a digitação de letras maiúsculas.
 b) Calcule o valor da hora trabalhada, conforme a tabela a seguir. Adote o valor de R$ 450,00 para o salário mínimo.
+
+| Categoria | Turno     | Valor da hora trabalhada       |
+|-----------|-----------|--------------------------------|
+| G         | N         | 18% do salário mínimo          |
+| G         | M ou V    | 15% do salário mínimo          |
+| O         | N         | 13% do salário mínimo          |
+| O         | M ou V    | 10% do salário mínimo          |
+
+c) Calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas trabalhadas.
+d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acordo com seu salário inicial, conforme a tabela a seguir.
 ---
 7.
 ---
