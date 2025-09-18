@@ -72,8 +72,7 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 - o total de alunos reprovados;
 - a média da classe.
 ---
-10. Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um progra-
-ma que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre:
+10. Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um programa que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre:
 
 - a quantidade de jogadores com idade inferior a 18 anos;
 - a média das idades dos jogadores de cada time;
@@ -83,13 +82,38 @@ ma que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mos
 
 ##  Exercícios Propostos - Questões - Estrutura de Repetição
 
-1. 
+1. Faça um programa que leia cinco grupos de quatro valores (A, B, C, D) e mostre-os na ordem lida. Em seguida, organize-os em ordem crescente e decrescente.
 ---
-2. 
+2. Uma companhia de teatro deseja montar uma série de espetáculos. A direção calcula que, a R$ 5,00 o ingresso, serão vendidos 120 ingressos, e que as despesas serão de R$ 200,00. Diminuindo-se em R$ 0,50 o preço dos ingressos, espera-se que as vendas aumentem em 26 ingressos. Faça um programa que escreva uma tabela de valores de lucros esperados em função do preço do ingresso, fazendo-se variar esse preço de R$ 5,00 a R$ 1,00, de R$ 0,50 em R$ 0,50. Escreva, ainda, para cada novo preço de ingresso, o lucro máximo esperado, o preço do ingresso e a quantidade de ingressos vendidos para a obtenção desse lucro.
 ---
-3. 
+3. Faça um programa que receba a idade de oito pessoas, calcule e mostre:
+a) a quantidade de pessoas em cada faixa etária;
+b) a porcentagem de pessoas na primeira faixa etária com relação ao total de pessoas.
+c) a porcentagem de pessoas na última faixa etária com relação ao total de pessoas
+
+| Faixa etária | Idade               |
+|--------------|---------------------|
+| 1ª           | Até 15 anos         |
+| 2ª           | De 16 a 30 anos     |
+| 3ª           | De 31 a 45 anos     |
+| 4ª           | De 46 a 60 anos     |
+| 5ª           | Acima de 60 anos    |
+
 ---
-4. 
+4. Faça um programa que receba um número, calcule e mostre a tabuada desse número.
+Exemplo:
+Digite um número: 5
+5 × 0 = 0
+5 × 1 = 5
+5 × 2 = 10
+5 × 3 = 15
+5 × 4 = 20
+5 × 5 = 25
+5 × 6 = 30
+5 × 7 = 35
+5 × 8 = 40
+5 × 9 = 45
+5 × 10 = 50
 ---
-5. 
+5. Faça um programa que mostre as tabuadas dos números de 1 a 10.
 ---
