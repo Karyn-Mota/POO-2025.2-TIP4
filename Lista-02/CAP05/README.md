@@ -67,7 +67,7 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 | Entre 3 e 7            | Exame      |
 | De 7 para cima         | Aprovado   |
 
-o total de alunos aprovados;
+- o total de alunos aprovados;
 - o total de alunos de exame;
 - o total de alunos reprovados;
 - a média da classe.
