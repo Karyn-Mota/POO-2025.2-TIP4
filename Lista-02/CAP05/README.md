@@ -45,12 +45,19 @@ d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acord
 | Entre R$ 300,00 e R$ 600,00  | 15% do salário inicial        |
 | Acima de R$ 600,00           | 5% do salário inicial         |
 
+e) Mostre o código, número de horas trabalhadas, valor da hora trabalhada, salário inicial, auxílio alimentação
+e salário final (salário inicial + auxílio alimentação).
+
 ---
-7.
+7. Faça um programa que monte os oito primeiros termos da sequência de Fibonacci.
+0-1-1-2-3-5-8-13-21-34-55...
 ---
-8.
+8. Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série a seguir:
+Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 ---
-9.
+9. Faça um programa que receba duas notas de seis alunos. Calcule e mostre:
+■■ a média aritmética das duas notas de cada aluno; e
+■■ a mensagem que está na tabela a seguir:
 ---
 10. 
 ---
