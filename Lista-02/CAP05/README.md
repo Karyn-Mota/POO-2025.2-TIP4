@@ -72,7 +72,13 @@ Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 - o total de alunos reprovados;
 - a média da classe.
 ---
-10. 
+10. Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um progra-
+ma que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre:
+
+- a quantidade de jogadores com idade inferior a 18 anos;
+- a média das idades dos jogadores de cada time;
+- a média das alturas de todos os jogadores do campeonato;
+- a porcentagem de jogadores com mais de 80 kg entre todos os jogadores do campeonato.
 ---
 
 ##  Exercícios Propostos - Questões - Estrutura de Repetição
