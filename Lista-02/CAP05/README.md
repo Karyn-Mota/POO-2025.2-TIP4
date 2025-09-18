@@ -56,8 +56,19 @@ e salário final (salário inicial + auxílio alimentação).
 Série = 2, 7, 3, 4, 21, 12, 8, 63, 48, 16, 189, 192, 32, 567, 768...
 ---
 9. Faça um programa que receba duas notas de seis alunos. Calcule e mostre:
-■■ a média aritmética das duas notas de cada aluno; e
-■■ a mensagem que está na tabela a seguir:
+->  a média aritmética das duas notas de cada aluno; e
+-> a mensagem que está na tabela a seguir:
+
+| Média aritmética mensal | Mensagem   |
+|------------------------|------------|
+| Até 3                  | Reprovado  |
+| Entre 3 e 7            | Exame      |
+| De 7 para cima         | Aprovado   |
+
+o total de alunos aprovados;
+- o total de alunos de exame;
+- o total de alunos reprovados;
+- a média da classe.
 ---
 10. 
 ---
