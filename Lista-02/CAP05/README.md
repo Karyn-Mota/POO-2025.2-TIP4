@@ -26,10 +26,7 @@ c) qual é a média de acidentes de trânsito nas cidades com menos de 2.000 ve�
 ---
 5. Faça um programa que leia o número de termos e um valor positivo para X. Calcule e mostre o valor
 da série a seguir:
-$$
-S = -\frac{X^2}{1!} + \frac{X^3}{2!} - \frac{X^4}{3!} + \frac{X^5}{4!} - \frac{X^6}{3!} + \frac{X^7}{2!} - \frac{X^8}{1!} + \frac{X^9}{2!} - \frac{X^{10}}{3!} + \frac{X^{11}}{4!} - \cdots
-$$
-
+S = -X^2/1! + X^3/2! - X^4/3! + X^5/4! - X^6/3! + X^7/2! - X^8/1! + X^9/2! - X^10/3! + X^11/4! - ...
 ---
 6. 
 ---
