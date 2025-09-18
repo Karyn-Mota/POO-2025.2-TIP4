@@ -37,6 +37,13 @@ b) Calcule o valor da hora trabalhada, conforme a tabela a seguir. Adote o valor
 
 c) Calcule o salário inicial dos funcionários com base no valor da hora trabalhada e no número de horas trabalhadas.
 d) Calcule o valor do auxílio alimentação recebido pelo funcionário de acordo com seu salário inicial, conforme a tabela a seguir.
+
+| Salário inicial               | Auxílio alimentação           |
+|------------------------------|-------------------------------|
+| Até R$ 300,00                | 20% do salário inicial        |
+| Entre R$ 300,00 e R$ 600,00  | 15% do salário inicial        |
+| Acima de R$ 600,00           | 5% do salário inicial         |
+
 ---
 7.
 ---
