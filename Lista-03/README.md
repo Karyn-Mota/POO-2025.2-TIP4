@@ -1,10 +1,11 @@
-# LISTA-03 – Vetor e Sub-rotina
+# LISTA-03 – Sub-rotina
 
-Esta pasta contém os **exercícios resolvidos e propostos** referentes ao **Capítulo 6 – Vetor** e **Capítulo 8 – Sub-rotina** do livro *Fundamentos da Programação de Computadores*, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
+Esta pasta contém os **exercícios resolvidos e propostos** referentes ao **Capítulo 8 – Sub-rotina** do livro *Fundamentos da Programação de Computadores*, de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos.
 
 ## Conteúdo
 
-- **Exercícios Resolvidos:** 1º ao 10º  
+- **Exercícios Resolvidos:** 1º ao 10º
+- **Exercícios Propostos:** 1º ao 5º
 
 ## Objetivo
 
